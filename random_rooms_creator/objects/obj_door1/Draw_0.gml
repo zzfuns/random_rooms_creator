@@ -1,0 +1,1 @@
+draw_sprite(spr_door1,block1_image_index_,x,y);
